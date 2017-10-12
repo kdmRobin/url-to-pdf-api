@@ -12,7 +12,7 @@
 risks. It allows API users to run any JavaScript code inside a Chrome in the server.
 It's fairly easy to expose content of files in the server. You have been warned!*
 
-**⭐️ Features:**
+**⭐️ Fonctionnelités:**
 
 * Converts any URL or HTML content to a PDF file
 * Rendered with Headless Chrome, using [Puppeteer](https://github.com/GoogleChrome/puppeteer). The PDFs should match to the ones generated with a desktop Chrome.
@@ -24,7 +24,7 @@ It's fairly easy to expose content of files in the server. You have been warned!
 
 Usage is as simple as https://url-to-pdf-api.herokuapp.com/api/render?url=http://google.com. There's also a `POST /api/render` if you prefer to send options in the body.
 
-**🔍 Why?**
+**🔍 Pourquoi ?**
 
 This microservice is useful when you need to automatically produce PDF files
 for whatever reason. The files could be receipts, weekly reports, invoices,
